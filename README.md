@@ -1,4 +1,4 @@
-# Hadoop-MapReduce-mini-project Cluster Configuration
+# Hadoop MapReduce Cluster Configuration
 Setup Apache Hadoop Cluster and implement a mini project which reads, processes and analyzes data on HDFS using MapReduce
 
 ## Prerequisite 
